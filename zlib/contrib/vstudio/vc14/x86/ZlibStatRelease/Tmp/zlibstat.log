@@ -1,0 +1,22 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  ioapi.c
+  trees.c
+  uncompr.c
+  unzip.c
+  zip.c
+  zutil.c
+  Generating Code...
+inffas32.obj : warning LNK4006: _inflate_fast already defined in inffast.obj; second definition ignored
+inffas32.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  zlibstat.vcxproj -> C:\Users\Yours Truly\Desktop\programming\Programming 3 binairy shizzle\zlib\contrib\vstudio\vc14\x86\ZlibStatRelease\zlibstat.lib
